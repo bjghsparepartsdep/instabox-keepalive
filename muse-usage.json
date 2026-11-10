@@ -1,9 +1,9 @@
 {
-  "weekly_used_percent": 35,
-  "weekly_remaining_percent": 65,
+  "weekly_used_percent": 36,
+  "weekly_remaining_percent": 64,
   "reset_at": "2026-11-13T04:56:00+02:00",
   "days_until_reset": 3,
-  "updated_at": "2026-11-10T19:27:22+02:00",
+  "updated_at": "2026-11-10T19:42:26+02:00",
   "additional_tokens_used_percent": 0,
   "additional_tokens_left": "26B",
   "plan": "free"
